@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-0bf!7ojqu19)^&ma1h^%t933js=lg5aud6#6ez%ilef4wycb(w
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['zengenchat.herokuapp.com','www.zengenchat.herokuapp.com']
+ALLOWED_HOSTS = ['muhammadhaiderlivechat.com','www.muhammadhaiderlivechat.herokuapp.com']
 
 
 # Application definition
